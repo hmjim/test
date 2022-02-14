@@ -1,1 +1,1 @@
-Host: https://vse-topscasinoss.azurewebsites2.net
+Host: https://vse-topscasinoss.azurewebsites1.net
