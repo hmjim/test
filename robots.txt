@@ -1,1 +1,1 @@
-Host: https://vse-topzcasinoz3.azurewebsites.net
+Host: https://vse-topzcasinoz4.azurewebsites.net
